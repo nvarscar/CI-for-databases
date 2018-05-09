@@ -1,0 +1,1 @@
+create table a20180504 (a int)

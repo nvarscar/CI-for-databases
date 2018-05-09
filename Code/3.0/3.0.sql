@@ -1,0 +1,1 @@
+create table table3 (a int)

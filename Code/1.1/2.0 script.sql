@@ -1,0 +1,1 @@
+create table tabl2 (a int, b int)

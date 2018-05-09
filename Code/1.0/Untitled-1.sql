@@ -1,0 +1,1 @@
+CREATE TABLE dbo.testJenkinsDeploy (a int, b int)
