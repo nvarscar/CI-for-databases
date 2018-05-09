@@ -1,8 +1,8 @@
 // Set default values
-def instance = 'WPG1LSDS02,7220'
-def dbName = 'ci_DbUp'
-def packageName = 'dbUp.zip'
-def buildProjectName = 'Lab/dbUp Build'
+def instance = 'SQL1'
+def dbName = 'ci_Db'
+def packageName = 'cidb.zip'
+def buildProjectName = 'ci_db Build'
 def historyFolder = 'History'
 //def promotionLevel = 'Test release'
 
